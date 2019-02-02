@@ -70,3 +70,7 @@ int main(){
 //wdawdw
 //dwadawd
 //dwawda
+
+function ayam {
+	Goreng();
+}
