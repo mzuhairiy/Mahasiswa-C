@@ -66,8 +66,7 @@ int main(){
 	}
 }
 // OK
-// hsdwihdiwhdi
-// jaojdowjodjw
-// aosidijdw
-// owjdowjdojwd
-// wodjowjdowjo
+// MMMM
+//wdawdw
+//dwadawd
+//dwawda
