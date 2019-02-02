@@ -65,3 +65,4 @@ int main(){
 			printf("Indeks Nilai\t: E");
 	}
 }
+// OK
