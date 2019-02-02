@@ -62,7 +62,7 @@ int main(){
 			printf("Nama\t\t: %s\n",mahasiswa.nama);
 			printf("NIM\t\t: %d\n",mahasiswa.nim);
 			printf("Matakuliah\t: %s\n",mahasiswa.matkul);
-			printf("Indeks Nilai\t: F");
+			printf("Indeks Nilai\t: E");
 	}
 }
 
