@@ -65,6 +65,3 @@ int main(){
 			printf("Indeks Nilai\t: E");
 	}
 }
-
-//	printf("Nilai %s ",saya.nilai);
-//	printf("Pada Matkul %s ",saya.matkul);
