@@ -10,9 +10,9 @@ struct{
 
 int main(){
 	
-	printf("Muhammad Zuhairi \n");
-	printf("1101184356 \n");
-	printf("TT-42-02 \n\n");
+	printf("Hilal Hamdi \n");
+	printf("1101184507 \n");
+	printf("TT-42-08 \n\n");
 	
 	printf("--INPUT--\n");
 	printf("Input Nama\t: "); fflush(stdin); gets(mahasiswa.nama);
@@ -65,6 +65,6 @@ int main(){
 			printf("Indeks Nilai\t: E");
 	}
 }
-
+//jgn diapus woi//
 //	printf("Nilai %s ",saya.nilai);
 //	printf("Pada Matkul %s ",saya.matkul);
